@@ -1,0 +1,17 @@
+{
+  "name": "sw_api",
+  "version": "1.0.0",
+  "description": "sw 文件缓存及接口缓存的实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "service",
+    "worker",
+    "caches",
+    "indexedDB"
+  ],
+  "author": "wayne",
+  "license": "ISC"
+}
